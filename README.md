@@ -11,5 +11,5 @@
 # Project setup
 
 1. Install NodeJS
-2. run `npm install` or `yarn install` in the project directory to install the dependencies
-3. run `npm run start` or `yarn start` in the project directory to run the project
+2. run `npm install` in the project directory to install the dependencies
+3. run `npm run start` in the project directory to run the project
